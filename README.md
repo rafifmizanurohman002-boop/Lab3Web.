@@ -12,16 +12,16 @@ praktikum 3 (css)
 Membuat file `lab2_css_dasar.html` dan membuat struktur dasar HTML sesuai dengan modul praktikum.
 
 ### Screenshot
-![Langkah 1](ss/01.png)
-(ss/02.png)
-
+![Screenshot 1](ss/01.png)
+![Screenshot 2](ss/02.png)
 
 ## 2. Mendeklarasikan CSS Internal
 
 Menambahkan CSS Internal menggunakan tag `<style>` pada bagian `<head>` untuk mengatur tampilan halaman HTML.
 
 ### Screenshot
-![Langkah 2](screenshot/langkah-2.png)
+![Screenshot 1](ss/03.png)
+![Screenshot 2](ss/04.png)
 
 
 ## 3. Menambahkan Inline CSS
@@ -29,7 +29,8 @@ Menambahkan CSS Internal menggunakan tag `<style>` pada bagian `<head>` untuk me
 Menambahkan CSS secara inline pada elemen `<p>` menggunakan atribut `style`.
 
 ### Screenshot
-![Langkah 3](screenshot/langkah-3.png)
+![Screenshot 1](ss/05.png)
+![Screenshot 2](ss/06.png)
 
 
 ## 4. Membuat CSS Eksternal
@@ -37,7 +38,8 @@ Menambahkan CSS secara inline pada elemen `<p>` menggunakan atribut `style`.
 Membuat file `style_eksternal.css` dan menghubungkannya dengan file HTML menggunakan tag `<link>`.
 
 ### Screenshot
-![Langkah 4](screenshot/langkah-4.png)
+![Screenshot 1](ss/07.png)
+![Screenshot 2](ss/08.png)
 
 
 ## 5. Menambahkan CSS Selector
@@ -45,7 +47,8 @@ Membuat file `style_eksternal.css` dan menghubungkannya dengan file HTML menggun
 Menambahkan Element Selector, ID Selector, dan Class Selector pada file `style_eksternal.css`.
 
 ### Screenshot
-![Langkah 5](screenshot/langkah-5.png)
+![Screenshot 1](ss/07.png)
+![Screenshot 2](ss/08.png)
 
 
 ## 6. Eksperimen CSS
@@ -53,7 +56,7 @@ Menambahkan Element Selector, ID Selector, dan Class Selector pada file `style_e
 Melakukan perubahan dan penambahan properti CSS untuk melihat perubahan tampilan pada halaman web.
 
 ### Screenshot
-![Langkah 6](screenshot/langkah-6.png)
+![Screenshot 1](ss/09.png)
 
 
 ## Kesimpulan
