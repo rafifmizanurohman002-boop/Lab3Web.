@@ -12,8 +12,8 @@ praktikum 3 (css)
 Membuat file `lab2_css_dasar.html` dan membuat struktur dasar HTML sesuai dengan modul praktikum.
 
 ### Screenshot
-![Langkah 1](screenshot/01.png)
-(screenshot/02.png)
+![Langkah 1](ss/01.png)
+(ss/02.png)
 
 
 ## 2. Mendeklarasikan CSS Internal
